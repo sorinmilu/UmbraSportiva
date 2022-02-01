@@ -1,0 +1,26 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <array name="activity_names">
+        <item>@string/running</item>
+        <item>@string/cycling</item>
+        <item>@string/skating</item>
+        <item>@string/walking</item>
+    </array>
+    <array name="activity_code">
+        <item>rn</item>
+        <item>cy</item>
+        <item>sk</item>
+        <item>wk</item>
+    </array>
+
+</resources>
